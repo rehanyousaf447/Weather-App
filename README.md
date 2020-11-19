@@ -17,3 +17,10 @@ How to handle exceptions in Dart using try/catch/throw.
 Learn about the lifecycle of Stateful Widgets and how to override them.
 How to use the Geolocator package to get live location data for both iOS and Android.
 How to use the TextField Widget to take user input.
+
+# MY APP PREVIEW
+![WhatsApp Image 2020-11-19 at 6 24 29 AM (3)](https://user-images.githubusercontent.com/51153678/99609302-7040ef80-2a31-11eb-98c3-30802f78092a.jpeg)
+![WhatsApp Image 2020-11-19 at 6 24 29 AM (4)](https://user-images.githubusercontent.com/51153678/99609304-720ab300-2a31-11eb-8cec-ffb95c49e900.jpeg)
+![WhatsApp Image 2020-11-19 at 6 24 29 AM (5)](https://user-images.githubusercontent.com/51153678/99609307-73d47680-2a31-11eb-9f4d-0c09fe68d851.jpeg)
+![WhatsApp Image 2020-11-19 at 6 24 29 AM (7)](https://user-images.githubusercontent.com/51153678/99609312-76cf6700-2a31-11eb-94dd-4c24d25d2817.jpeg)
+![WhatsApp Image 2020-11-19 at 6 24 29 AM (6)](https://user-images.githubusercontent.com/51153678/99609319-7931c100-2a31-11eb-8af0-1ab8df1d5cbb.jpeg)
